@@ -30,7 +30,7 @@ function draw(){
     // write code to display time in correct format here
     fill("rgb(211, 40, 125)");
     textSize(45);
-    text("Time(in hours): " + time, 600,350)
+    text("Time(in hours): " + time, width/2 - 200,350)
 
 }
 
